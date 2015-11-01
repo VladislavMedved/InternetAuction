@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Products";
+}
+@Styles.Render("~/Conten/PagedList.css")
+<h2>Products</h2>
+
+@using (Ajax.BeginForm("ProductSearch", "Product", new AjaxOptions { UpdateTargetId = "search-result" }))
+{
+    <div class="input-group" style="max-width:360px;">
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control", @placeholder = "Search" })
+        <div class="input-group-btn">
+            <button type="submit" class="btn btn-default" value="Search">
+                <i class="glyphicon glyphicon-search"></i>
+            </button>
+        </div>
+    </div>
+}
+<br />
+
+@Html.Action("ProductSearch", new { searchString = ViewBag.SearchString as string })
+
+<button class="btn btn-info" type="button" id="addressSearch" onclick="location.href='@Url.Action("Create", "Product")'">Create</button>
+<br />
+<br />
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    @*<script type="text/javascript">
+        $(document).ready(function () {
+            $(document).on("click", "#contentPager a[href]", function () {
+                $.ajax({
+                    url: $(this).attr("href"),
+                    type: 'GET',
+                    dataType: "json",
+                    cache: false,
+                    success: function (data) {
+                        $("#search-result").html(data);
+                    }
+                });
+                return false;
+            });
+        });
+    </script>*@
+}
+

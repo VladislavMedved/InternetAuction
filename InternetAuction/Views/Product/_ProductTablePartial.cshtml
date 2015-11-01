@@ -1,0 +1,66 @@
+﻿@model PagedList.IPagedList<MvcPL.Models.ProductsViewModel>
+@using PagedList.Mvc;
+
+<div id="search-result">
+    <table class="table table-striped">
+        <tr>
+            <th>
+                @Html.ActionLink("#", "")
+            </th>
+            <th>
+                @Ajax.ActionLink("Product Cost", "ProductSearch", new { sortOrder = ViewBag.PriceSortParam, currentFilter = ViewBag.CurrentFilter, searchString = ViewBag.SearchString },
+                         new AjaxOptions() { UpdateTargetId = "search-result" })
+            </th>
+            <th>
+                @Ajax.ActionLink("Description", "ProductSearch", new { sortOrder = ViewBag.NameSortParam, currentFilter = ViewBag.CurrentFilter, searchString = ViewBag.SearchString },
+                        new AjaxOptions() { UpdateTargetId = "search-result" })
+            </th>
+            <th>
+                <a>End Time</a>
+            </th>
+            <th>
+                @Html.ActionLink("Start Time", "")
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Auction_Cost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AuctionEnd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AuctionStart)
+                </td>
+                <td>
+                    <div class="btn-group">
+                        <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Details", "Details", new { id = item.Id })</li>
+                            <li class="divider"></li>
+                            <li>@Html.ActionLink("Delete", "Delete", new { id = item.Id })</li>
+                        </ul>
+                    </div>
+
+                </td>
+            </tr>
+        }
+    </table>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    <div id="contentPager">
+        @Html.PagedListPager(Model, page => Url.Action("ProductSearch", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, searchString = ViewBag.SearchString }),
+                                   PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "search-result" }))
+    </div>
+</div>
+

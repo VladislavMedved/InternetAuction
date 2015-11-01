@@ -1,0 +1,41 @@
+﻿@if (Request.IsAuthenticated)
+{
+    <text>
+        <ul class="nav navbar-nav" >
+            <li>
+                <a class="disabled">Logged as @User.Identity.Name</a>
+            </li>
+            <li style="margin-top:8px;">
+                @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <button class="btn btn-primary" type="submit"><i class="fa fa-sign-out">Log Off</i></button>
+                }
+            </li>
+
+        </ul>
+    </text>
+}
+else
+{
+    <div class="dropdown navbar-right" style="margin-top:8px">
+        <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" id="navLogin">
+            <i class="fa fa-sign-in"> Login</i>
+        </button>
+        <div class="dropdown-menu" style="padding:17px;">
+
+            <div id="formLogin" class="form" style="min-width:150px;">
+                <label>Login</label>
+                @Html.Partial("~/Views/Account/_Login.cshtml", new ViewDataDictionary())
+            </div>
+            <br />
+            <form>
+                <a href="#" title="Fast and free sign up!" id="btnNewUser" data-toggle="collapse" data-target="#formRegister">New User? Sign-up..</a>
+            </form>
+
+            <div id="formRegister" class="form collapse">
+                @Html.Partial("~/Views/Account/_Register.cshtml", new ViewDataDictionary())
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,123 @@
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\MvcPL.dll.config
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\MvcPL.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\MvcPL.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Antlr3.Runtime.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\BLL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\DependencyResolver.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\EntityFramework.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\EntityFramework.SqlServer.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Newtonsoft.Json.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Ninject.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Ninject.Web.Common.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Ninject.Web.Mvc.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\PagedList.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\PagedList.Mvc.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Net.Http.Formatting.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Http.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Http.WebHost.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Mvc.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Optimization.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Providers.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Razor.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.WebPages.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\WebActivatorEx.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\WebGrease.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\DAL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\DAL.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\ORM.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\BLL.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Helpers.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\BLL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\DependencyResolver.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\EntityFramework.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\EntityFramework.SqlServer.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Ninject.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Ninject.Web.Common.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Ninject.Web.Mvc.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\PagedList.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\PagedList.Mvc.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Newtonsoft.Json.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Net.Http.Formatting.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Http.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Http.WebHost.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Mvc.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.Razor.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.WebPages.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\DAL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\DAL.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\ORM.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\BLL.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\bin\Helpers.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\obj\Debug\Internet_Auction.csprojResolveAssemblyReference.cache
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\obj\Debug\MvcPL.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\MvcPL\obj\Debug\MvcPL.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\MvcPL.dll.config
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\MvcPL.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\MvcPL.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Antlr3.Runtime.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\BLL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\DependencyResolver.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\EntityFramework.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\EntityFramework.SqlServer.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Microsoft.Web.Mvc.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Newtonsoft.Json.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Ninject.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Ninject.Web.Common.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Ninject.Web.Mvc.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\PagedList.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\PagedList.Mvc.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Net.Http.Formatting.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Http.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Http.WebHost.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Mvc.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Optimization.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Providers.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Razor.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.WebPages.Deployment.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.WebPages.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.WebPages.Razor.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\WebActivatorEx.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\WebGrease.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\DAL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\DAL.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\ORM.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\BLL.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Helpers.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\BLL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\DependencyResolver.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\EntityFramework.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\EntityFramework.SqlServer.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Ninject.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Ninject.Web.Common.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Ninject.Web.Mvc.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\PagedList.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\PagedList.Mvc.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Newtonsoft.Json.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Net.Http.Formatting.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Http.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Http.WebHost.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Mvc.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.Razor.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.WebPages.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.WebPages.Deployment.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\System.Web.WebPages.Razor.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\DAL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\DAL.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\ORM.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\BLL.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\bin\Helpers.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\obj\Debug\Internet_Auction.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\obj\Debug\MvcPL.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\InternetAuction\obj\Debug\MvcPL.pdb

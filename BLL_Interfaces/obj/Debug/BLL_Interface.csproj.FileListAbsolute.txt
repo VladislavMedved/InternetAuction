@@ -1,0 +1,9 @@
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\BLL_Interfaces\bin\Debug\BLL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\BLL_Interfaces\bin\Debug\BLL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\BLL_Interfaces\obj\Debug\BLL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\BLL_Interfaces\obj\Debug\BLL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\BLL_Interfaces\bin\Debug\BLL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\BLL_Interfaces\bin\Debug\BLL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\BLL_Interfaces\obj\Debug\BLL_Interface.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\BLL_Interfaces\obj\Debug\BLL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\BLL_Interfaces\obj\Debug\BLL_Interface.pdb

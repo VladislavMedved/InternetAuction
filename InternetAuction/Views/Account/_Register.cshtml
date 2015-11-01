@@ -1,0 +1,28 @@
+﻿@model MvcPL.Models.RegisterModel
+
+@using (@Html.BeginForm("Register", "Account"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    <div class="form-horizontal">
+        <div>
+            @Html.ValidationMessageFor(u => u.UserEmail)
+            @Html.TextBoxFor(u => u.UserEmail, new { @class = "form-control", @placeholder = "Email" })
+        </div>
+        <div>
+            @Html.ValidationMessageFor(u => u.UserName)
+            @Html.TextBoxFor(u => u.UserName, new { @class = "form-control", @placeholder = "Username" })
+        </div>
+        <div>
+            @Html.ValidationMessageFor(u => u.Password)
+            @Html.TextBoxFor(u => u.Password, new { @class = "form-control", @placeholder = "Password" })
+        </div>
+        <div>
+            @Html.ValidationMessageFor(u => u.ConfirmPassword)
+            @Html.TextBoxFor(u => u.ConfirmPassword, new { @class = "form-control", @placeholder = "Password (again)" })
+        </div>
+        <div>
+            <button type="submit" class="btn">Register</button>
+        </div>
+    </div>
+}

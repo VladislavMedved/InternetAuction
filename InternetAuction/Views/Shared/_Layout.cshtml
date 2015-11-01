@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/bootstrapcss")
+    @Styles.Render("~/Content/fawesomecss")
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#responsive-menu">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Internet Auction", "Index", "Home", new {@class = "navbar-brand" })
+            </div>
+            <div class="collapse navbar-collapse" id="responsive-menu">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Products", "Index", "Product")</li>
+                </ul>
+
+                <div class="nav navbar-nav navbar-right">
+                    @Html.Partial("~/Views/Shared/_LoginPartial.cshtml")
+                </div>
+
+                </div>
+            </div>
+        </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="well sidebar-nav">
+                    <h3><i class="nav-header fa fa-list fa-lg"></i> Categories</h3>
+                    <ul>
+                        <li>
+                            @Html.ActionLink("All", "Index", "Product", new { searchString = "" }, null)
+                        </li>
+                        <li>
+                            @Html.ActionLink("Processors", "Index", "Product", new { searchString = "Processor" }, null)
+                        </li>
+                        <li>
+                            @Html.ActionLink("Cars", "Index", "Product", new { searchString = "Car" }, null)
+                        </li>
+                        <li>
+                            @Html.ActionLink("Books", "Index", "Product", new { searchString = "Book" }, null)
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                @RenderSection("featured", required: false)
+                @RenderBody()
+                <hr />
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - Internet Auction</p>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrapjs")
+    @RenderSection("Scripts", required: false)
+    @*@Scripts.Render("~/bundles/customjs")*@
+</body>
+</html>

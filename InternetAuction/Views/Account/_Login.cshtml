@@ -1,0 +1,24 @@
+﻿@model MvcPL.Models.LoginModel
+
+@using (@Html.BeginForm("Login","Account"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    <div class="form-horizontal">
+        <div>
+            @Html.ValidationMessageFor(u => u.UserName)
+            @Html.TextBoxFor(u => u.UserName, new {@class = "form-control", @placeholder = "Username" })
+        </div>
+        <div>
+            @Html.ValidationMessageFor(u => u.Password)
+            @Html.PasswordFor(u => u.Password, new { @class = "form-control", @placeholder = "Password" })
+        </div>
+        <div class="form-inline">
+            @Html.CheckBoxFor(u => u.RememberMe)
+            @Html.LabelFor(u => u.RememberMe, new { @class = "checkbox" })
+        </div>
+        <div>
+            <button type="submit" class="btn">Login</button>
+        </div>
+    </div>
+}

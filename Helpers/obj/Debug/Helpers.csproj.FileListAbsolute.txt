@@ -1,0 +1,9 @@
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\Helpers\bin\Debug\Helpers.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\Helpers\obj\Debug\Helpers.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\Helpers\obj\Debug\Helpers.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\Helpers\bin\Debug\Helpers.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\Helpers\bin\Debug\Helpers.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\Helpers\obj\Debug\Helpers.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\Helpers\obj\Debug\Helpers.pdb

@@ -1,0 +1,52 @@
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DependencyResolver.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DependencyResolver.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\BLL.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\BLL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DAL.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DAL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\EntityFramework.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\Ninject.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\ORM.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\Helpers.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\BLL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\BLL.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DAL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\DAL.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\ORM.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\EntityFramework.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\Ninject.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\bin\Debug\Helpers.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\obj\Debug\DependencyResolver.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DependencyResolver\obj\Debug\DependencyResolver.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DependencyResolver.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DependencyResolver.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\BLL.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\BLL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DAL.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DAL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\EntityFramework.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\Ninject.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\ORM.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\Helpers.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\BLL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\BLL.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DAL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\DAL.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\ORM.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\EntityFramework.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\Ninject.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\bin\Debug\Helpers.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\obj\Debug\DependencyResolver.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DependencyResolver\obj\Debug\DependencyResolver.pdb

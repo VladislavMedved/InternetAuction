@@ -1,0 +1,37 @@
+﻿@model MvcPL.Models.ProductsViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+    <h2>Create a new product</h2>
+</hgroup>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+
+    <fieldset>
+        <div class="form-horizontal">
+            <div class="form-group">
+                @Html.LabelFor(m => m.Description)
+                @Html.TextBoxFor(m => m.Description, new {@class = "form-control", @style = "max-width:360px;" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Auction_Cost)
+                @Html.TextBoxFor(m => m.Auction_Cost, new { @class = "form-control", @style = "max-width:360px;" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.AuctionEnd)
+                @Html.TextBoxFor(m => m.AuctionEnd, new { @class = "form-control", @style = "max-width:360px;" })
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-default" value="Create" />
+            </div>
+        </div>
+    </fieldset>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

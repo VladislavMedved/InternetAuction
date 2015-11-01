@@ -1,0 +1,47 @@
+﻿@model MvcPL.Models.ProductsViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row">
+    <div class="col-lg-5">
+        <h2>Details</h2>
+        <ul>
+            <li>
+                @Html.LabelFor(modelItem => Model.Id)
+                @Html.DisplayFor(modelItem => Model.Id)
+            </li>
+            <li>
+                @Html.LabelFor(modelItem => Model.Description)
+                @Html.DisplayFor(modelItem => Model.Description)
+            </li>
+            <li>
+                @Html.LabelFor(modelItem => Model.Auction_Cost)
+                @Html.DisplayFor(modelItem => Model.Auction_Cost)
+            </li>
+            <il>
+                @Html.LabelFor(modelItem => Model.AuctionStart)
+                @Html.DisplayFor(modelItem => Model.AuctionStart)
+            </il>
+            <li>
+                @Html.LabelFor(modelItem => Model.AuctionEnd)
+                @Html.DisplayFor(modelItem => Model.AuctionEnd)
+            </li>
+        </ul>
+    </div>
+    <div class="col-log-7">
+        <h2>Bid history</h2>
+        <table class="table table-hover" style="width:55%;">
+            <tr>
+                <th>User</th>
+                <th>Date</th>
+                <th>Bid ammount</th>
+            </tr>
+            <tr></tr>
+            <tr></tr>
+        </table>
+        <button class="btn btn-success">Bid</button>
+    </div>
+</div>
+

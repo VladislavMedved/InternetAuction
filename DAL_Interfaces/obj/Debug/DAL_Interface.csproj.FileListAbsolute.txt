@@ -1,0 +1,11 @@
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DAL_Interfaces\bin\Debug\DAL_Interface.dll.config
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DAL_Interfaces\bin\Debug\DAL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DAL_Interfaces\bin\Debug\DAL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DAL_Interfaces\obj\Debug\DAL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\DAL_Interfaces\obj\Debug\DAL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DAL_Interfaces\bin\Debug\DAL_Interface.dll.config
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DAL_Interfaces\bin\Debug\DAL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DAL_Interfaces\bin\Debug\DAL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DAL_Interfaces\obj\Debug\DAL_Interface.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DAL_Interfaces\obj\Debug\DAL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\DAL_Interfaces\obj\Debug\DAL_Interface.pdb

@@ -1,0 +1,22 @@
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\ORM.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\ORM.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\DAL_Interface.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\EntityFramework.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\DAL_Interface.pdb
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\EntityFramework.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\obj\Debug\ORM.dll
+C:\Users\Home.Home-ПК\Desktop\ASP.NET.1501.Project-master\ORM\obj\Debug\ORM.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\ORM.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\ORM.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\DAL_Interface.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\EntityFramework.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\DAL_Interface.pdb
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\EntityFramework.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\obj\Debug\ORM.dll
+D:\Program Files (x86)\Visual Studio 2013 Community\Projects\ASP.NET.Medved.Project\ORM\obj\Debug\ORM.pdb
